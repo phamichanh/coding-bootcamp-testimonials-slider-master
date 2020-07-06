@@ -190,10 +190,10 @@ p, h4, h5 {
   background-color: hsl(240, 18%, 77%);
 }
 
-.display-left {
+#display-left {
   background-image: url("../images/icon-prev.svg");
 }
 
-.display-right {
+#display-right {
   background-image: url("../images/icon-next.svg");
 }
